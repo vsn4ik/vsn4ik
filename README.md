@@ -7,5 +7,5 @@
     srcset="https://github-readme-stats.vercel.app/api?username=vsn4ik&hide_title=true&show_icons=true&hide=contribs&count_private=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vsn4ik&hide_title=true&show_icons=true&hide=contribs&count_private=false" />
 </picture>
